@@ -206,7 +206,7 @@ database.txt
 /files/
 /others/
 
-# Ignore config files
+# Ignore config files (Firebase Studio)
 *.ini
 *.json
 *.yaml
